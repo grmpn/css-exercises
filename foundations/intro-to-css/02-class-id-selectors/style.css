@@ -1,0 +1,19 @@
+.Odd{
+    background-color: pink;
+    font-family: Verdana, "Deja Vu Sans", "sans-serif";
+}
+
+.Odd.Three{
+    font-size: 24px;
+}
+
+#Two{
+    font-size: 36px;
+    color: blue;
+}
+
+#Four{
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}
